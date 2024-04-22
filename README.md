@@ -1,3 +1,4 @@
+[![Jekyll site CI](https://github.com/flch1/blackteaufuk2024/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/flch1/blackteaufuk2024/actions/workflows/jekyll-docker.yml)
 # blackteaufuk2024
 ## Overview
 A decentralized application (dApp) built on blockchain technology to facilitate trustless trading of tokens.
